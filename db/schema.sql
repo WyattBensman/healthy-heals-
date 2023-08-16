@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS dishes_db;
+CREATE DATABASE dishes_db;
